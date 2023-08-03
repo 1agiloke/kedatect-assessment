@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# KeDa Tech Software Engineer Assessment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the root project of Assessment 2.
+Please go to Assessment1 directory to see the Assessment1 answers.
 
 ## Available Scripts
 

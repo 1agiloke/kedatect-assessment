@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import './assets/css/templatemo-chain-app-dev.css';
+import './assets/css/fontawesome.css';
+import './assets/css/animated.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
